@@ -1,0 +1,14 @@
+Package: com.unobfuscation.lennyface
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unobfuscation
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.unobfuscation.lennyface_1.0_iphoneos-arm.deb
+Size: 3440
+MD5sum: b7f8961cb5f5a0795989d1ad8af0344b
+SHA1: efca6a7593b1d6e66371859bb4751c2133376eda
+SHA256: db3deb6503da919c9b01198375e12a9ad57dc4d62d27c6d8cbdc1400c984b10f
+Section: Addons (Zeppelin)
+Author: Unobfuscation
+Name: LennyFace
+

@@ -4,6 +4,6 @@ Depends: com.alexzielenski.zeppelin
 Version: 1.0
 Architecture: iphoneos-arm
 Description:
-Maintainer: Unobfuscation <unobfuscation@gmail.com>
-Author: Unobfuscation <unobfuscation@gmail.com>
+Maintainer: Unobfuscation
+Author: Unobfuscation
 Section: Addons (Zeppelin)
