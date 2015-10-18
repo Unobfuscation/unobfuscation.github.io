@@ -1,0 +1,9 @@
+Package: com.unobfuscation.lennyface
+Name: LennyFace
+Depends: com.alexzielenski.zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Description:
+Maintainer: Unobfuscation <unobfuscation@gmail.com>
+Author: Unobfuscation <unobfuscation@gmail.com>
+Section: Addons (Zeppelin)
